@@ -14,12 +14,19 @@ The script will randomly select 500 unique (non-repeat) cities based on latitude
 ### Dependencies
 
 random
+
 json
+
 requests
+
 numpy 
+
 pandas
+
 matplotlib.pyplot
+
 seaborn 
+
 citipy 
 
 ### Credentials
