@@ -1,4 +1,4 @@
-##  OpenWeatherMap-Python-API
+##  OpenWeatherMap_Python_API
 
 This scripts connects to the OpenWeatherMap API to display weather data to visualize the weather of 500+ cities across the world of varying distance from the equator. 
 
