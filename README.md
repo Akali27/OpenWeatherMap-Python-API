@@ -4,7 +4,7 @@ This scripts connects to the OpenWeatherMap API to display weather data to visua
 
 ## Description
 
-The script will randomly select 500 unique (non-repeat) cities based on latitude and longitude. It will then display a series of scatter plots to showcase the following relationships:
+The script will randomly select 500 unique (non-repeat) cities based on latitude and longitude. Next, it will display a series of scatter plots to showcase the following relationships:
 
 * Temperature (F) vs. Latitude
 * Humidity (%) vs. Latitude
