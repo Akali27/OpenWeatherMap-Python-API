@@ -1,4 +1,4 @@
-##  OpenWeatherMap_Python_API
+##  OpenWeatherMap Python API
 
 This scripts connects to the OpenWeatherMap API to display weather data to visualize the weather of 500+ cities across the world of varying distance from the equator. 
 
@@ -13,21 +13,14 @@ The script will randomly select 500 unique (non-repeat) cities based on latitude
 
 ### Dependencies
 
-random
-
-json
-
-requests
-
-numpy 
-
-pandas
-
-matplotlib.pyplot
-
-seaborn 
-
-citipy 
+- random
+- json
+- requests
+- numpy 
+- pandas
+- matplotlib.pyplot
+- seaborn 
+- citipy 
 
 ### Credentials
 
